@@ -1,7 +1,3 @@
-If your repository doesn’t have a license, you can simply omit the license section from the README. Here’s the updated version:
-
----
-
 # Data-Science-Tutorial
 
 Welcome to the Data-Science-Tutorial repository! This project is designed to help learners and practitioners understand key concepts and techniques in data science through hands-on examples and tutorials.
@@ -87,5 +83,4 @@ Contributions to this repository are welcome! If you have suggestions for additi
 
 Please ensure that your code adheres to the existing style and includes appropriate documentation.
 
----
 
